@@ -1,3 +1,4 @@
+const SUBPATH = "/arte-antica"
 let data = [];
 let currentIndex = -1;
 const seen = [];
@@ -39,11 +40,10 @@ function prevImage() {
 function showTextAndPDF() {
   if (currentIndex < 0) return;
   const entry = seen[currentIndex];
-  console.log("🚀 ~ showTextAndPDF ~ currentIndex:", currentIndex)
   text.style.display = "block";
   if (entry.fileName && entry.page) {
-    const encodedPdf = encodeURIComponent(`/pdfs/${entry.fileName}`);
-    const url = `/pdfjs/web/viewer.html?file=${encodedPdf}#page=${entry.page}`;
+    const encodedPdf = encodeURIComponent(`${SUBPATH}/pdfs/${entry.fileName}`);
+    const url = `${SUBPATH}/pdfjs/web/viewer.html?file=${encodedPdf}#page=${entry.page}`;
     pdfviewer.src = url;
     overlay.style.display = "block";
   }
