@@ -43,7 +43,7 @@ function showTextAndPDF() {
   text.style.display = "block";
   if (entry.fileName && entry.page) {
     const encodedPdf = encodeURIComponent(`${SUBPATH}/${SUBPATH}/pdfs/${entry.fileName}`);
-    const url = `${SUBPATH}/pdfjs/web/viewer.html?file=${encodedPdf}#page=${entry.page}`;
+    const url = `${SUBPATH}/${SUBPATH}/pdfjs/web/viewer.html?file=${encodedPdf}#page=${entry.page}`;
     pdfviewer.src = url;
     overlay.style.display = "block";
   }
