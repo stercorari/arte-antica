@@ -1,0 +1,2782 @@
+{
+  "inputDir": "/home/kuus/Web/stercorari/arte-antica/input",
+  "files": {
+    "/home/kuus/Web/stercorari/arte-antica/input/1. Lezione introduttiva_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 167
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 167
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 98
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 82
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 329
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 238
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 233
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 210
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 293
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 181
+        },
+        "11": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 152
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "13": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 112
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 75
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 92
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 65
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 105
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 79
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 61
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 51
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 65
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 105
+        },
+        "25": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 161
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 57
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "29": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 115
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 79
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 70
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 103
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 80
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 115
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 80
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 64
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 59
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 76
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 85
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 47
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 64
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 89
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 140
+        },
+        "50": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 112
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 64
+        },
+        "52": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        }
+      },
+      "lastPage": 52
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/2. Preistoria_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 40
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 611
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 32
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 36
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 77
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 89
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 276
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 135
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 116
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 84
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 48
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 125
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 32
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 121
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 53
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 40
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 30
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 72
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 53
+        },
+        "29": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 43
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "31": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 56
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 78
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 171
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 64
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 20
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 97
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 20
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 50
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 54
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 81
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 105
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "50": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "52": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 312
+        },
+        "53": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 104
+        },
+        "54": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "55": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 178
+        },
+        "56": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 94
+        }
+      },
+      "lastPage": 56
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/3. L_area mesopotamica III_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 144
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 50
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 56
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 80
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 60
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 50
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 28
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 135
+        }
+      },
+      "lastPage": 26
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/3. L_area mesopotamica II_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 40
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 88
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 146
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 85
+        },
+        "5": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 39
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 76
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 89
+        },
+        "9": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 49
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 79
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 95
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 162
+        },
+        "17": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 120
+        },
+        "18": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 72
+        },
+        "19": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 63
+        },
+        "20": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 65
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 68
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 64
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "24": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 48
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        }
+      },
+      "lastPage": 26
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/3. L_area mesopotamica I_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 61
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 68
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 81
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 54
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 73
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 118
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 31
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 36
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 83
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 201
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 65
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 83
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 78
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "18": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 26
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 82
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 91
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 68
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 74
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 74
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 83
+        },
+        "29": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 36
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "31": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 26
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 37
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 35
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 47
+        },
+        "37": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 40
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 93
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 36
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 85
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 20
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        }
+      },
+      "lastPage": 49
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/4. Prefigurare l’aldilà- l’arte egizia II_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 205
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 124
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 194
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 117
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 74
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 69
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 91
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 107
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 69
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 68
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 115
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 213
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 268
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 60
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 126
+        },
+        "29": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 179
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 224
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 131
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 43
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 67
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 73
+        },
+        "39": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 29
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 67
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 51
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 101
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 46
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 73
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 162
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 75
+        },
+        "50": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 31
+        }
+      },
+      "lastPage": 50
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/4. Prefigurare l’aldilà- l’arte egizia I_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 488
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 95
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 80
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 43
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 99
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 90
+        },
+        "9": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 65
+        },
+        "10": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 92
+        },
+        "11": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 350
+        },
+        "12": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 261
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 117
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 184
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 107
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 40
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 45
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 83
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 50
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 99
+        },
+        "29": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 29
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 31
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 131
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 121
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 155
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 57
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 133
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 68
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 98
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "50": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "52": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        },
+        "53": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "54": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 202
+        },
+        "55": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 187
+        },
+        "56": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "57": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 156
+        },
+        "58": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 137
+        },
+        "59": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "60": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "61": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 56
+        },
+        "62": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 68
+        },
+        "63": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        },
+        "64": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 156
+        },
+        "65": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 97
+        },
+        "66": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 61
+        },
+        "67": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 30
+        }
+      },
+      "lastPage": 67
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/5. Le civiltà egee- Creta e Micene _compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 114
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 192
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 214
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 175
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 98
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "11": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 49
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "15": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 49
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "20": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 74
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 60
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "25": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 57
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 61
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 81
+        },
+        "29": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 35
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 36
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 91
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 64
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 227
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 95
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 85
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 49
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 71
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 51
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 173
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 113
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 65
+        },
+        "47": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 145
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 36
+        },
+        "50": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 15
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "52": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "53": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "54": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "55": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 191
+        },
+        "56": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "57": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "58": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "59": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "60": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 126
+        },
+        "61": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "62": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 64
+        }
+      },
+      "lastPage": 62
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/6. Medioevo ellenico+ Grecia arcaica _compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 153
+        },
+        "2": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 147
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 249
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 173
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 69
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 264
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 87
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 76
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 82
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 89
+        },
+        "13": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 41
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 74
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 90
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 83
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 112
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 154
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 113
+        },
+        "22": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 125
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 110
+        },
+        "24": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 40
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "26": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 47
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 147
+        },
+        "29": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 153
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 80
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 93
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 122
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 86
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 150
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 50
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 86
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 134
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 67
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 94
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "42": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 114
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 77
+        },
+        "50": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 114
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 62
+        },
+        "52": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 20
+        },
+        "53": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 345
+        },
+        "54": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 37
+        },
+        "55": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 197
+        },
+        "56": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 106
+        },
+        "57": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "58": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 141
+        },
+        "59": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 108
+        },
+        "60": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 84
+        },
+        "61": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 32
+        },
+        "62": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "63": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 207
+        },
+        "64": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 145
+        },
+        "65": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 114
+        },
+        "66": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 145
+        },
+        "67": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 82
+        },
+        "68": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 129
+        },
+        "69": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "70": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 148
+        },
+        "71": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 108
+        },
+        "72": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 95
+        },
+        "73": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 78
+        },
+        "74": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 77
+        },
+        "75": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 199
+        },
+        "76": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 116
+        },
+        "77": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "78": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 166
+        },
+        "79": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 65
+        },
+        "80": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 140
+        },
+        "81": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 139
+        },
+        "82": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "83": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 76
+        },
+        "84": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 98
+        },
+        "85": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "86": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "87": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "88": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 35
+        },
+        "89": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 123
+        },
+        "90": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 105
+        },
+        "91": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 45
+        },
+        "92": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 31
+        },
+        "93": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 53
+        },
+        "94": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 119
+        },
+        "95": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 54
+        },
+        "96": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "97": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 56
+        },
+        "98": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 60
+        }
+      },
+      "lastPage": 98
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/7. La Grecia “severa” (480-450 a.C.) _compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 82
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 165
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 140
+        },
+        "5": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 77
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 216
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 81
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 39
+        },
+        "11": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 61
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 84
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 168
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 60
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 47
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 76
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 39
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 57
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 108
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 175
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "27": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 32
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 96
+        },
+        "29": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 136
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 43
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 37
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 46
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 86
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 29
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 177
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 43
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 54
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 55
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 85
+        },
+        "49": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 74
+        },
+        "50": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 67
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        }
+      },
+      "lastPage": 51
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/8. La Grecia classica_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 66
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 125
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 176
+        },
+        "5": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 257
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "7": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 119
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 37
+        },
+        "9": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 258
+        },
+        "10": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 95
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 43
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 146
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 151
+        },
+        "14": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 61
+        },
+        "15": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 61
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 67
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 72
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 77
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "21": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 145
+        },
+        "22": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 76
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 45
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 37
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "29": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 77
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 48
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 39
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 60
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "37": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 66
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 61
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 84
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 32
+        },
+        "42": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 74
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 138
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 306
+        },
+        "45": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 123
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 30
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 37
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "50": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "52": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 68
+        },
+        "53": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 50
+        },
+        "54": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "55": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "56": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "57": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 86
+        },
+        "58": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 262
+        },
+        "59": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "60": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 38
+        },
+        "61": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "62": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 80
+        },
+        "63": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 35
+        },
+        "64": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 65
+        },
+        "65": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 56
+        },
+        "66": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "67": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 33
+        },
+        "68": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 244
+        },
+        "69": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 82
+        },
+        "70": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 148
+        },
+        "71": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 151
+        },
+        "72": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 69
+        },
+        "73": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 70
+        },
+        "74": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 95
+        },
+        "75": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 87
+        },
+        "76": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 44
+        },
+        "77": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "78": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 61
+        },
+        "79": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 73
+        },
+        "80": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 233
+        }
+      },
+      "lastPage": 80
+    },
+    "/home/kuus/Web/stercorari/arte-antica/input/9. L’Ellenismo_compressed.pdf": {
+      "completed": false,
+      "pages": {
+        "1": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 108
+        },
+        "2": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 109
+        },
+        "3": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 41
+        },
+        "4": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "5": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 54
+        },
+        "6": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 15
+        },
+        "7": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 190
+        },
+        "8": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 215
+        },
+        "9": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 96
+        },
+        "10": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 80
+        },
+        "11": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 143
+        },
+        "12": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "13": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 121
+        },
+        "14": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 125
+        },
+        "15": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 20
+        },
+        "16": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 20
+        },
+        "17": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 103
+        },
+        "18": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 73
+        },
+        "19": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "20": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "21": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 20
+        },
+        "22": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 34
+        },
+        "23": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 91
+        },
+        "24": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 101
+        },
+        "25": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 159
+        },
+        "26": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 73
+        },
+        "27": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "28": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 91
+        },
+        "29": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 124
+        },
+        "30": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 61
+        },
+        "31": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 155
+        },
+        "32": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 83
+        },
+        "33": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 30
+        },
+        "34": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 43
+        },
+        "35": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 32
+        },
+        "36": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 63
+        },
+        "37": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 32
+        },
+        "38": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 197
+        },
+        "39": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 85
+        },
+        "40": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "41": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 89
+        },
+        "42": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 83
+        },
+        "43": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 110
+        },
+        "44": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 58
+        },
+        "45": {
+          "attemptsOnPage": 2,
+          "lastElIdx": 52
+        },
+        "46": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "47": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 39
+        },
+        "48": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "49": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "50": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 25
+        },
+        "51": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 79
+        },
+        "52": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 34
+        },
+        "53": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "54": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 52
+        },
+        "55": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 26
+        },
+        "56": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 42
+        },
+        "57": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 247
+        },
+        "58": {
+          "attemptsOnPage": 1,
+          "lastElIdx": 23
+        },
+        "59": {
+          "attemptsOnPage": 3,
+          "lastElIdx": 183
+        }
+      },
+      "lastPage": 58
+    }
+  },
+  "completed": false
+}
